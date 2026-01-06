@@ -46,7 +46,7 @@ const SignupPage = () => {
         <div className='w-[340px] bg-white p-10 rounded-xl'>
             <h1 className='text-4xl pt-10 pb-2 font-bold'>Sign Up</h1>
             <p className='text-xs pb-10'>Create an account or <a href='/login' className='underline text-bottom'>login</a></p>
-            {message && <p className='py-4 text-bottom font-bold'>{message}</p>}
+            {message && <p className='py-4 text-red-500 font-bold'>{message}</p>}
             <form onSubmit={handleSubmit} action="" className='flex flex-col space-y-5'>
                 <div>
                    <label htmlFor="username" className="block text-sm/6 font-medium text-gray-900">User name</label>

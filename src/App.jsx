@@ -1,9 +1,9 @@
 import './App.css'
 import { Routes, Route } from 'react-router-dom'
-import Landing from './Components/Landing'
-import SignupPage from './Components/SignupPage'
-import LoginPage from './Components/LoginPage'
-import WelcomePage from './Components/WelcomePage'
+import Landing from './Components/pages/Landing'
+import SignupPage from './Components/pages/SignupPage'
+import LoginPage from './Components/pages/LoginPage'
+import WelcomePage from './Components/pages/WelcomePage'
 
 function App() {
   return (
