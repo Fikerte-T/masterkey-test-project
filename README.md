@@ -4,22 +4,6 @@ This project is a web application for an imaginary web tutor. It includes a land
 
 ## Table of contents
 
-
-  - [Links](#links)
-
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [Author](#author)
-
-
-
-## Links
-
-- [Solution URL](https://github.com/Fikerte-T/masterkey-test-project)
-
-
-
 ## Built with
 
 - Semantic HTML5 markup
